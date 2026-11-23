@@ -1,4 +1,5 @@
 import Navbar from "./components/Navbar.jsx";
+import "./smit.css";
 
 function FirstComponent() {
   return <button>This is Button</button>;
